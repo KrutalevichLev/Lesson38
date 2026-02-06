@@ -16,45 +16,45 @@ void test01() {
 void test02() {
 	int number = -2;
 	bool expected = false;
-	print("test01", number, expected);
+	print("test02", number, expected);
 }
 void test03() {
 	int number = 1;
 	bool expected = true;
-	print("test01", number, expected);
+	print("test03", number, expected);
 }
 void test04() {
 	int number = 8;
 	bool expected = true;
-	print("test01", number, expected);
+	print("test04", number, expected);
 }
 void test05() {
 	int number = 256;
 	bool expected = true;
-	print("test01", number, expected);
+	print("test05", number, expected);
 }
 void test06() {
 	int number = 1024;
 	bool expected = true;
-	print("test01", number, expected);
+	print("test06", number, expected);
 }
 void test07() {
 	int number = 32;
 	bool expected = false;
-	print("test01", number, expected);
+	print("test07", number, expected);
 }
 void test08() {
 	int number = 3;
 	bool expected = false;
-	print("test01", number, expected);
+	print("test08", number, expected);
 }
 void test09() {
 	int number = 10;
 	bool expected = false;
-	print("test01", number, expected);
+	print("test09", number, expected);
 }
 void test10() {
 	int number = 80;
 	bool expected = false;
-	print("test01", number, expected);
+	print("test10", number, expected);
 }
