@@ -9,5 +9,6 @@ bool is_digits_count_even(long long number) {
 		number_of_digits++;
 		number /= 10;
 	 }
+
 	return (number_of_digits % 2 == 0 ? true : false);
 }
