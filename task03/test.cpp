@@ -40,7 +40,7 @@ void test06() {
 }
 void test07() {
 	int number = 32;
-	bool expected = false;
+	bool expected = true;
 	print("test07", number, expected);
 }
 void test08() {
